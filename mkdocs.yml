@@ -1,0 +1,39 @@
+site_name: RadRocks EPK
+# site_url: https://a-slice-of-py.github.io/data-scientist-hub
+# repo_url: https://github.com/a-slice-of-py/data-scientist-hub
+repo_name: radrocks/epk
+
+theme:
+  # favicon: assets/dsh_minimal.png
+  # logo: assets/dsh_minimal.png
+  icon:
+    repo: fontawesome/brands/github
+  name: "material"
+  palette:
+    scheme: slate
+    primary: amber
+    accent: orange
+  features:
+    - navigation.tabs
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.progressbar
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - pymdownx.details
+  - pymdownx.tabbed
+  - pymdownx.emoji
+  - pymdownx.arithmatex
+  - admonition
+  - footnotes
+  - toc:
+      permalink: True
+
+plugins:
+  - search
+  - awesome-pages
+
+extra_css:
+  - css/extra.css
