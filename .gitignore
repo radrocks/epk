@@ -263,7 +263,7 @@ $RECYCLE.BIN/
 *.csv
 
 # JPEG
-*.jpg
+# *.jpg
 *.jpeg
 *.jpe
 *.jif

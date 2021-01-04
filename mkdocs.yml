@@ -4,15 +4,15 @@ repo_url: https://github.com/radrocks/epk
 repo_name: radrocks/epk
 
 theme:
-  # favicon: assets/dsh_minimal.png
-  # logo: assets/dsh_minimal.png
+  favicon: assets/logo.png
+  logo: assets/logo.png
   icon:
     repo: fontawesome/brands/github
   name: "material"
   palette:
     scheme: slate
-    primary: amber
-    accent: orange
+    primary: lime
+    accent: green
   features:
     - navigation.tabs
 
@@ -34,6 +34,13 @@ markdown_extensions:
 plugins:
   - search
   - awesome-pages
+
+extra:
+  social:
+      - icon: fontawesome/brands/facebook
+        link: https://www.facebook.com/RadRocksVIP
+      - icon: fontawesome/solid/envelope
+        link: mailto:radioactiverocks@gmail.com
 
 extra_css:
   - css/extra.css

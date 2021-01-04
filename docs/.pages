@@ -1,3 +1,6 @@
 nav:
-  - 🔰 Home: index.md
+  - Music: music.md
+  - Video: video.md
+  - Pics: pics.md
+  - Bio: bio.md
   
