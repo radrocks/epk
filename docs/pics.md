@@ -2,7 +2,7 @@
 
 ## 2018
 
-![](/assets/photos/2018 Naim.jpg)
+![](./assets/photos/2018 Naim.jpg)
 ![](/assets/photos/2018 matrimonio.jpg)
 ![](/assets/photos/2018 Valcaira.jpg)
 
