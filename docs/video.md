@@ -18,6 +18,14 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/avrZFHrNHnI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Lady Little Spoon - Acoustic version (2015)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nXmbju-mZXI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Hope Never Dies - Acoustic version (2013)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bEWT7NRWEQ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Hope Never Dies (2009)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tYMbZFnvImE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
