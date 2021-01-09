@@ -56,6 +56,10 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F8CKNT2Fq9Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Hope Never Dies @ Folkstudio (2015)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EHBBA4qpwTw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Dammit - Blink 182 cover @ Villa Fiammetta (2010)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cCbYtV-rTao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
